@@ -1,0 +1,7 @@
+{
+  "name": "torneoVoleibol",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
